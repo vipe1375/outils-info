@@ -3,4 +3,7 @@ Exercice 1
 2) le répertoire .git a été créé
 4) le message indique qu'auncun fichier n'est actuellement suivi
 5) le fichier est maintenant suivi
-
+7) le répertoire est à jour
+8) la commande affiche un historique des commits du dépôt git
+9) la commande montre les changements apportés aux fichiers suivis
+11) je vois le fichier `git.txt` sur le serveur github
