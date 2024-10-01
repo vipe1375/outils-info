@@ -1,0 +1,6 @@
+Exercice 1
+
+2) le répertoire .git a été créé
+4) le message indique qu'auncun fichier n'est actuellement suivi
+5) le fichier est maintenant suivi
+
